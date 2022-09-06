@@ -1,1 +1,1 @@
-this is about writting scripts
+this is finished
